@@ -66,7 +66,15 @@
     margin: 20px;
 }
 .subtitle-capturas {
-    margin-left: 50px;
+    margin-left: 250px;
+}
+
+.center-img{
+    text-align: center;
+}
+
+.img-fluid {
+    width: 700px;
 }
 /* FIN DE LAS PROPIEDADES DE LOS CONTENEDORES */
 
