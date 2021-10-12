@@ -1,0 +1,78 @@
+
+/* BOOTRSTRAP ICONS / CDN */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+
+
+/* VARIABLE CSS */
+:root{
+    /* COLORES DEL SITIO */
+   
+    /* COLOR NAVBAR */
+    --n1-color-nabvar: rgb(0, 0, 0);
+
+}
+
+
+/* color body */
+.body {
+    background-color: silver;
+}
+
+/* FIN GENEREALES CSS */
+
+/* HEADER VERSION 2 */
+/* FIN HEADER VERSION*/
+
+/* PROPIEDADES DE LAS SECCIONES */
+.section {
+    width: 100%;
+    margin: 100px 0;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.img-about {
+    height: 350px;
+    width: 100%;
+}
+
+/* PROPIEDADES DEL CONTENEDOR */
+.content {
+    width: 100%;
+     height: auto;
+}
+
+/* CONTENEDOR FORMULARIO */
+.content-FORM {
+
+    border: black;
+    padding: 2%;
+    margin: 0 200PX;
+    border: 1px solid;
+}
+
+.center-items {
+    text-align: center;
+}
+/* CONTAINER + H2 */
+.container h2 {
+    margin: 3% 3px 3% 3%;
+    color: white;
+}
+
+/* TITULOS SECTION CAPTURAS */
+.title-capturas{
+    text-align: center;
+    margin: 20px;
+}
+.subtitle-capturas {
+    margin-left: 50px;
+}
+/* FIN DE LAS PROPIEDADES DE LOS CONTENEDORES */
+
+/* PROPIEDADES NAVBAR */
+.bg-color-navbar {
+    background-color: var(--n1-color-nabvar);
+}
+/* FIN DE PROPIEDADES DEL NABVAR */
+
